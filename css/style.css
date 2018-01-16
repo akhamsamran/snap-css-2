@@ -7,6 +7,7 @@
 .secondline {
 	color: red;
 	font-weight: bold;
+	text-decoration: underline;
 }
 .thirdline {
 	background-color: yellow;
@@ -14,4 +15,8 @@
 .boldred {
 	color: red;
 	font-weight: bold;
+	text-decoration: underline;
+}
+#highlight {
+	yellow
 }
