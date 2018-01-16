@@ -1,4 +1,6 @@
+/*tried "font-style, didn't work, but font-weight did*/
 .firstline {
+ */
 	color: red;
 	font-weight: bold;
 }
